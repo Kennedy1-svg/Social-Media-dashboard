@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site](https://kensocialdb.netlify.app)
+- Live Site URL: [Live Site](https://kensocialmediadb.netlify.app/)
 
 ## My process
 
